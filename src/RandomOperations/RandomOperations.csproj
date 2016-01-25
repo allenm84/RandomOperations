@@ -50,6 +50,7 @@
     <Compile Include="Extensions\Controls.cs" />
     <Compile Include="Extensions\Reflection.cs" />
     <Compile Include="Operations\ConvertToFraction.cs" />
+    <Compile Include="Operations\ToBase64.cs" />
     <Compile Include="Operations\EuclideanColorDistance.cs" />
     <Compile Include="Operations\CreateMD5Hash.cs" />
     <Compile Include="Operations\CharacterCount.cs" />
