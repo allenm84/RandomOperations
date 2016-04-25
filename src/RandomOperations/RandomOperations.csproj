@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="Extensions\Controls.cs" />
     <Compile Include="Extensions\Reflection.cs" />
+    <Compile Include="Operations\ResizeImage.cs" />
     <Compile Include="Operations\TextToBinary.cs" />
     <Compile Include="Operations\BinaryToText.cs" />
     <Compile Include="Operations\ConvertToFraction.cs" />
